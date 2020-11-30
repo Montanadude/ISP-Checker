@@ -1,4 +1,4 @@
-<img src="./img/logo.png" />
+
 
 ![License](https://img.shields.io/github/license/fmdlc/ISP-Checker) ![LastCommit](https://img.shields.io/github/last-commit/fmdlc/ISP-Checker) ![Build](https://github.com/fmdlc/ISP-Checker/workflows/Build/badge.svg) ![Docker](https://img.shields.io/badge/Docker-19.03.13-blue)
 
